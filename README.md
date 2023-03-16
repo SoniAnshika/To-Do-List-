@@ -10,6 +10,6 @@ When the work is finished you can clear the work from your list.
 <h3>Languages used:</h3>
   -HTML <br>
   -CSS  <br>
-  -JavaScript <br>
+  -JavaScript <br> <br>
   
 [To Do List](https://sonianshika.github.io/To-Do-List-/)
