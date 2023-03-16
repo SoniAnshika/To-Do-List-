@@ -8,8 +8,8 @@ This is an virtual to do list making app where you can organise you work accordi
 When the work is finished you can clear the work from your list.
 
 <h3>Languages used:</h3>
-  -HTML <br>
-  -CSS  <br>
-  -JavaScript <br> <br>
+  - HTML <br>
+  - CSS  <br>
+  - JavaScript <br> <br>
   
 [To Do List](https://sonianshika.github.io/To-Do-List-/)
