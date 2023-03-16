@@ -7,6 +7,9 @@ Tasks are typically put in order by priority or importance.<br>
 This is an virtual to do list making app where you can organise you work according to your priority.
 When the work is finished you can clear the work from your list.
 
-<h3>Languages used</h3>
+<h3>Languages used:</h3>
+  -HTML
+  -CSS
+  -JavaScript
   
 [To Do List](https://sonianshika.github.io/To-Do-List-/)
